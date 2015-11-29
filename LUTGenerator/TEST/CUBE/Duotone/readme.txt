@@ -1,0 +1,1 @@
+these work both for full color (using LAB conversion) or for already black-and-white images
